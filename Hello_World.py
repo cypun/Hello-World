@@ -5,5 +5,5 @@ secondWord = "World"
 space = " "
 
 print(firstWord,space,secondWord)
-print(firstWord+space+secondWord
-print("{} {}".format(firstWord,secondWord)
+print(firstWord+space+secondWord)
+print("{} {}".format(firstWord,secondWord))
